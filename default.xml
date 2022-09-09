@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="git@github.com:xxxxxzp" name="origin" />
+	<remote fetch="." name="origin" />
   	<default remote="origin" revision="master"/>
   	<!-- Platform Zone -->
   	<project name="repofile" revision="master" path="repofile" />
